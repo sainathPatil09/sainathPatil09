@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React | Next.js | cloud | AWS**
 
-- 📫 How to reach me **sainathpatil090@gmail.com**
+- 📫 How to reach me **https://x.com/Sai_patil09**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1p1sH5PPYUvbg72IsMITQWq_i8FLW1hIp/view](https://drive.google.com/file/d/1p1sH5PPYUvbg72IsMITQWq_i8FLW1hIp/view)
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainathpatil09&show_icons=true&locale=en" alt="sainathpatil09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainathpatil09&" alt="sainathpatil09" /></p>
+
