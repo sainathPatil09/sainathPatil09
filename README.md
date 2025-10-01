@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://x.com/Sai_patil09**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18Pi9A206piLFcbsHJPNNEzdhiDEhNdeY/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qB8t8duS_RAvy5IlC1kNR7AXMX6bxKvP/view?usp=drive_link)
 
 - ⚡ Fun fact **i like to eat 🥣, run🏃, code 👨‍💻 and repeat**
 
